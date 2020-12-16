@@ -2,4 +2,4 @@
 
 ![](images/screen.png)
 
-Please find a demo version here: http://edealer.surge.sh/
+Please find a demo version here: https://edealer-trivia.web.app/
